@@ -1,6 +1,6 @@
 # SIDHdelegation
 
-This MAGMA code implements benchmarks to assess the cost of the delegation algorithms presented in [1]. It needs the vOW4SIKE package [2] as a dependency. 
+This MAGMA code implements benchmarks to assess the cost of the delegation algorithms presented in [1]. It needs Microsoft's vOW4SIKE package [2] as a dependency. 
 
 To install, simply clone this repository and add the vOW4SIKE package as a folder into the SIDHdelegation folder:
 ```
@@ -10,7 +10,9 @@ git clone https://github.com/microsoft/vOW4SIKE
 ```
 
 To run, execute
-``` magma run.m ```
+``` 
+magma run.m
+```
 
 
 
