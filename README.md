@@ -19,4 +19,5 @@ To run, execute
 
 ### References
 [1] R. Pedersen, O. Uzunkol: Delegating Supersingular Isogenies over $\mathbb{F}_{p^2}$ with Cryptographic Applications, 2021.
+
 [2] https://github.com/microsoft/vOW4SIKE
