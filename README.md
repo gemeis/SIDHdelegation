@@ -14,7 +14,7 @@ To run the benchmarks, execute
 ``` 
 magma run.m
 ```
-Note that this does not represent a fully working implementation, but rather an assessment of the computational cost of the delegator. In order to verify correctness of the algorithms presented in [1], we further implemented a proof of concept. This uses the built-in elliptic curves in Magma and is therefore not optimized. To verify correctness, run
+Note that this does not represent a fully working implementation, but rather an assessment of the computational cost of the delegator. In order to verify correctness of the algorithms presented in [1], we further implemented a proof of concept. This uses the built-in elliptic curves and isogenies from MAGMA and is therefore not optimized. To verify correctness, run
 ```
 magma proof-of-concept.m
 ```
